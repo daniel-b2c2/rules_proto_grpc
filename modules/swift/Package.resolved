@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/grpc/grpc-swift-protobuf",
       "state" : {
-        "revision" : "df605cde2957657a078eb754ed24f3a0e05d3f54",
-        "version" : "2.0.0"
+        "revision" : "176c5a434fd76f6f479848d1a8f7d44967534168",
+        "version" : "2.4.1"
       }
     },
     {
